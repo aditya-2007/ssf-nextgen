@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.brillio.\
+    ssfnextgen.config.SqlTestContainersSpringContextCustomizerFactory
